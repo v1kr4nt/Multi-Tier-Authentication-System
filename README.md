@@ -1,19 +1,11 @@
 # Multi-Tier Authentication System
 
-A multi-tier authentication system built using Node.js that provides enhanced security through multiple authentication layers, including username/password, two-factor authentication (2FA), biometric authentication, and OAuth integration with third-party providers.
+A multi-tier authentication system built using Node.js that provides enhanced security through multiple authentication layers, including username/password, two-factor authentication (2FA) and OAuth integration with third-party providers.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Security](#security)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
